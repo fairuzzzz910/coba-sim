@@ -3,3 +3,7 @@ jadwal sim:
 - pendahuluan 
 - review basis data 
 - koneksi data dari MySQL ke R
+
+materi 2:
+-review analisis data 
+- pengenalan rmarkdown
